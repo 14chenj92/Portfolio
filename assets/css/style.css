@@ -116,3 +116,23 @@ body {
     text-decoration: none;
     color: blue;
 }
+
+@media screen and (max-width: 992px) {
+    body {
+      background-color: #772014;
+    }
+   
+    .header {
+      background: orange;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    body {
+      background: darkred;
+    }
+    .header {
+      background: #8ac4ff;
+    }
+  }
+  
