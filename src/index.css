@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: var(--primary);
+    background-color: var(--secondary); */
+}
+
+:root {
+    --main-color: linear-gradient(to right, #97a9c9, #8297c5);
+    --second-color: #97A9C9;
+}

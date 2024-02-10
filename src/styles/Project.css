@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Kalam:wght@300&family=Lora:ital@1&family=Poppins:wght@300&family=Quicksand&family=Raleway:wght@200&family=Space+Mono&display=swap');
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+#project {
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+#project h1 {
+    font-size: 50px;
+    font-family: Poppins;
+    text-align: center;
+}
+
+.project-card {
+    display: flex;
+    margin: 3% 20% 0% 20%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    border-radius: 8px;
+    background-color: #97A9C9;
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+  }
+
+.project-left {
+    width: 50%;
+    margin: 5%;
+}
+
+.project-img {
+  width: 500px;
+  height: 300px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: opacity 0.5s ease-in-out;
+}
+
+.project-desc {
+    margin-top: 5%;
+}
+
+.project-desc p, span {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Quicksand;
+}
+
+.project-right {
+  width: 60%;
+  margin: 5%;
+}
+
+.project-right h2 {
+    font-size: 48px;
+    font-family: Poppins;
+}
+
+.lang-box {
+    margin-top: 5%;
+    font-size: 18px;
+    font-family: Quicksand;
+}
+
+.lang-box span {
+    font-size: 16px;
+    font-family: Kalam;
+}
+
+
+
+

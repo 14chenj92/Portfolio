@@ -1,0 +1,24 @@
+
+#header {
+  display: flex;
+  justify-content: end;
+  margin-right: 5%;
+  background-color: var(--primary);
+}
+
+#header button {
+  font-size: 18px;
+  font-family: Poppins;
+}
+
+#header button:hover img{
+    opacity: 0.2;
+    transform: rotate(90deg);
+}
+
+/* @media screen and (max-width: 768px) {
+  #header {
+    width: 100%;
+  }
+} */
+

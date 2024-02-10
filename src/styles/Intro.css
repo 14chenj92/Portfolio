@@ -1,0 +1,46 @@
+#intro {
+  margin-bottom: 20%;
+}
+
+.intro-section {
+  margin: 10%;
+  display: flex;
+}
+
+.intro-image {
+  width: 700px;
+  height: 400px;
+  background-image: url("../images/freelancer.svg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  background-color: aliceblue;
+}
+
+
+.intro-text {
+  margin-left: 10%;
+}
+
+.intro-text h1 {
+  font-family: Poppins;
+  font-size: 56px;
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
+
+.intro-text p {
+  font-family: Poppins;
+  font-size: 18px;
+  margin-bottom: 10%;
+}
+
+@media screen and (max-width: 768px) {
+  .intro-image {
+    width: 60%;
+  }
+  .intro-text h1 {
+    width: 10%;
+    font-size: 20px;
+  }
+}

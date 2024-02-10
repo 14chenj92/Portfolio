@@ -1,0 +1,21 @@
+#contact {
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.contact-form {
+    font-family: Poppins;
+}
+
+#contact h1 {
+    font-size: 50px;
+}
+
+.contact-left {
+    background-color: #97A9C9;
+}
+
+.contact-right {
+    background-color: #2F3B6F;
+    font-family: Poppins;
+}
