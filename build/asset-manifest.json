@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46d9acf8.css",
+    "main.js": "/static/js/main.23b1b282.js",
+    "static/media/Music.gif": "/static/media/Music.7fc9228a9a3835a2a790.gif",
+    "static/media/Stock.gif": "/static/media/Stock.5b657636b78fa20b20c0.gif",
+    "static/media/Animal.gif": "/static/media/Animal.a5a7cc9d930203896ff0.gif",
+    "static/media/Stargazers.gif": "/static/media/Stargazers.b5f36b0349d0d39b8965.gif",
+    "static/media/login.png": "/static/media/login.0396df23949748b2ab22.png",
+    "static/media/stargazers_screen.png": "/static/media/stargazers_screen.31d2c5a5705245c3d299.png",
+    "static/media/avatar.jpg": "/static/media/avatar.35bf4fa3a9993bc899c6.jpg",
+    "static/media/Resume Draft.pdf": "/static/media/Resume Draft.e3ace6e373eb413fd140.pdf",
+    "static/media/freelancer.svg": "/static/media/freelancer.9efce70ee80e0d0afdb6.svg",
+    "static/media/jquery.svg": "/static/media/jquery.ab812caf9c78eb016e5dfad7a80f2e32.svg",
+    "static/media/html.svg": "/static/media/html.b1196f4e6b144b015b334136b341c3ae.svg",
+    "static/media/css.svg": "/static/media/css.f1823d8606e24164d5ac03b4e9b80d85.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.997c463dca63c915b9a51f1caedef8e1.svg",
+    "static/media/arrow.svg": "/static/media/arrow.948777b7289fe753c279b7af63683604.svg",
+    "static/media/github.svg": "/static/media/github.04be58c17b3d5e9744424d414240dd85.svg",
+    "index.html": "/index.html",
+    "static/media/stack.svg": "/static/media/stack.b4c91dac418e900743327d04bbab76f4.svg",
+    "static/media/bulma.svg": "/static/media/bulma.15f5ccb8209a2eb1e81e2635de03b9c7.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.27a3f479ca1bbb0ceef19e395081fb94.svg",
+    "static/media/diamond.svg": "/static/media/diamond.fb07965f056b32e5fb41a0c4930bac15.svg",
+    "main.46d9acf8.css.map": "/static/css/main.46d9acf8.css.map",
+    "main.23b1b282.js.map": "/static/js/main.23b1b282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d9acf8.css",
+    "static/js/main.23b1b282.js"
+  ]
+}

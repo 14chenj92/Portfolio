@@ -5,8 +5,8 @@ import Diamond from "../images/diamond.svg";
 const navigation = [
   { name: 'About', id: 'about', current: false, },
   { name: 'Project', id: 'project', current: false },
-  { name: 'Contact', id: 'contact', current: false },
   { name: 'Resume', id: 'resume', current: false },
+  { name: 'Contact', id: 'contact', current: false }
 ]
 
 function classNames(...classes) {

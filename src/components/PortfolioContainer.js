@@ -15,8 +15,8 @@ export default function PortfolioContainer() {
       <Intro/>
       <About/>
       <Project/>
-      <Contact/>
       <Resume/>
+      <Contact/>
       <Link/>
       <Footer/>
     </div>
