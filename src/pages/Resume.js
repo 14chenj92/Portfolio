@@ -4,12 +4,12 @@ import "../styles/Resume.css";
 import Skills from "../components/Skills";
 import HTML from "../images/icons/html.svg";
 import CSS from "../images/icons/css.svg";
-import JV from '../images/icons/javascript.svg';
-import jQuery from "../images/icons/jquery.svg";
-import bulma from "../images/icons/bulma.svg";
-import ReactIcon from '../images/icons/react.svg';
+import JV from "../images/icons/javascript.svg";
+import Bulma from "../images/icons/bulma.svg";
+import ReactIcon from "../images/icons/react.svg";
 import Bootstrap from "../images/icons/bootstrap.svg";
 import Tailwind from "../images/icons/tailwind.svg";
+import Vue from "../images/icons/vue.svg";
 import Python from "../images/icons/python.svg";
 import API from "../images/icons/api.svg";
 import Node from "../images/icons/nodejs.svg";
@@ -36,24 +36,26 @@ export default function Resume() {
         <h2 className="float">
           <span>Front-End Proficiencies:</span>
           <div className="skills-list">
-          <Skills img={HTML} skill="HTML" />
-          <Skills img={CSS} skill="CSS" />
-          <Skills img={JV} skill="JavaScript" />
-          <Skills img={ReactIcon} skill="React" />
-          <Skills img={Bootstrap} skill="Bootstrap" />
-          <Skills img={Tailwind} skill="Tailwind" />
+            <Skills img={HTML} skill="HTML" />
+            <Skills img={CSS} skill="CSS" />
+            <Skills img={JV} skill="JavaScript" />
+            <Skills img={ReactIcon} skill="React" />
+            <Skills img={Bootstrap} skill="Bootstrap" />
+            <Skills img={Tailwind} skill="Tailwind" />
+            <Skills img={Vue} skill="Vue" />
+            <Skills img={Bulma} skill="Bulma" />
           </div>
         </h2>
         <h2 className="float">
           <span>Back-End Proficiencies:</span>
           <div className="skills-list">
-          <Skills img={Python} skill="Python" />
-          <Skills img={API} skill="APIs" />
-          <Skills img={Node} skill="Node.js" />
-          <Skills img={Express} skill="Express.js" />
-          <Skills img={mySQL} skill="mySQL" />
-          <Skills img={mongoDB} skill="MongoDB" />
-          <Skills img={GraphQL} skill="GraphQL" />
+            <Skills img={Python} skill="Python" />
+            <Skills img={API} skill="APIs" />
+            <Skills img={Node} skill="Node.js" />
+            <Skills img={Express} skill="Express.js" />
+            <Skills img={mySQL} skill="mySQL" />
+            <Skills img={mongoDB} skill="MongoDB" />
+            <Skills img={GraphQL} skill="GraphQL" />
           </div>
         </h2>
       </div>

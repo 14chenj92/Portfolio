@@ -29,6 +29,8 @@ export default function Project() {
         title="Stock Tracker"
         description="
         Stock Tracker provides a comprehensive snapshot of a stock's performance in the market, offering users an overview, charts, and detailed information. The application integrates with the Finnhub API to ensure accurate data, empowering users with valuable insights into the stock's current status."
+        app="https://ancient-ravine-85592.herokuapp.com/"
+        git="https://github.com/14chenj92/Stock-Tracker"
         lang1="React" color1="cyan"
         lang2="Tailwind"  color2="blue"
         lang3="Javascript" color3="yellow"
@@ -38,6 +40,8 @@ export default function Project() {
         hoverpicture={AnimalScreen}
         title="Animal Forum"
         description="This is an online community where users can sign in to share images and engage in discussions about their favorite animals. Beyond posting content, members can comment on and like other user's posts."
+        app="https://polar-temple-53244.herokuapp.com/login"
+        git="https://github.com/14chenj92/Animal-Blog"
         lang1="HTML" color1="red"
         lang2="CSS"  color2="blue"
         lang3="Javascript" color3="yellow"
@@ -48,6 +52,8 @@ export default function Project() {
         hoverpicture={StargazersScreen}
         title="Music Blog"
         description="I curate a personal music blog where I share my passion for different music genres. I create posts which discuss my favorite albums by my favorite artists, ranging from Korean R&B to Japanese Pop."
+        app=""
+        git=""
         lang1="Wordpress" color1="cyan"
       />
     </div>
